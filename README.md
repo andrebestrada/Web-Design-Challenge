@@ -1,8 +1,8 @@
-# Web-Design-Challenge
+
+# Web Design Homework - Web Visualization Challenge
 
 Access webpage via https://andrebestrada.github.io/
 
-# Web Design Homework - Web Visualization Challenge
 
 ## Background
 
