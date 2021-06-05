@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-Access as a webpage via https://andrebestrada.github.io/
+Access webpage via https://andrebestrada.github.io/
 
 # Web Design Homework - Web Visualization Challenge
 
